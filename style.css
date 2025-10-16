@@ -11,14 +11,14 @@ body {
 }
 
 header {
-    background-color: #ffcc00;
+    background-color: #5b05fa;
     padding: 20px;
     text-align: center;
 }
 
 header .logo h1 {
     font-size: 36px;
-    color: #333;
+    color: #0ea4e9;
 }
 
 nav ul {
@@ -34,7 +34,7 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     font-size: 18px;
-    color: #333;
+    color: #06fab1;
 }
 
 section {
@@ -59,7 +59,7 @@ section {
     background-color: #fff;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(70, 10, 235, 0.1);
 }
 
 .produto img {
@@ -79,7 +79,7 @@ section {
 }
 
 button {
-    background-color: #ffcc00;
+    background-color: #0ef735;
     border: none;
     padding: 10px 20px;
     cursor: pointer;
@@ -89,7 +89,7 @@ button {
 }
 
 button:hover {
-    background-color: #ff9900;
+    background-color: #a9eb0e;
 }
 
 .contato form {
@@ -112,7 +112,7 @@ button:hover {
 }
 
 .contato button {
-    background-color: #ffcc00;
+    background-color: #08c7e9;
     border: none;
     padding: 12px 20px;
     cursor: pointer;
@@ -122,7 +122,7 @@ button:hover {
 }
 
 footer {
-    background-color: #333;
+    background-color: #089bfd;
     color: #fff;
     text-align: center;
     padding: 10px;
